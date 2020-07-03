@@ -2,77 +2,89 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "6HwKHM4aKH1":
+      case "68VOmfmnkyb":
         Script1();
         break;
-      case "5YjrgQY9qlS":
+      case "5cAafgoX3DE":
         Script2();
         break;
-      case "5hmK66h3J0c":
+      case "6d8kTabbsJI":
         Script3();
         break;
-      case "61KnwMaztXE":
+      case "5hRdOtILczd":
         Script4();
         break;
-      case "5yjxXrjHXJV":
+      case "6YKlxfF4Sx3":
         Script5();
         break;
-      case "6JWVEnnaAJA":
+      case "6kNpSVgsujb":
         Script6();
         break;
-      case "6CHvmEUhcih":
+      case "5cDheyL1AFV":
         Script7();
         break;
-      case "6U0wZ6FXPL5":
+      case "6cFGmnU1Uxg":
         Script8();
         break;
-      case "6ShtAqXK7Qp":
+      case "6OtJ2bFaG3y":
         Script9();
         break;
-      case "6UflAlG38gH":
+      case "5krhKbXXyXM":
         Script10();
         break;
-      case "5kbND74Qgkx":
+      case "62igy2DeWLp":
         Script11();
         break;
-      case "5wePv5lvhoU":
+      case "6rEMs7S5A0j":
         Script12();
         break;
-      case "68rLtnaA36d":
+      case "6o4eonSveBE":
         Script13();
         break;
-      case "67dBRLpEaOx":
+      case "62G4pWBAJOp":
         Script14();
         break;
-      case "5cAfNb6T0uz":
+      case "6TkYloNpye8":
         Script15();
         break;
-      case "6lzOAXwztXX":
+      case "5xMxnpqfwTZ":
         Script16();
         break;
-      case "5XDBa5vhk55":
+      case "5cnxpGd2pcU":
         Script17();
         break;
-      case "6ZQ5Bmtb5Di":
+      case "6ZPh4RY97Jr":
         Script18();
         break;
-      case "6KAcSCsrfB1":
+      case "5jp8IZBx8gI":
         Script19();
         break;
-      case "5bmYxSVSa2I":
+      case "5jeIMigvvDR":
         Script20();
         break;
-      case "5mOWAHPDHmx":
+      case "6IjjUNQG3zS":
         Script21();
         break;
-      case "6EfiwfnWCJx":
+      case "5fmUd8etNND":
         Script22();
         break;
-      case "5hXIUx4HyAD":
+      case "5l0YJj3ltiO":
         Script23();
         break;
-      case "6ep41fFYajH":
+      case "64oXsdlMvFx":
         Script24();
+        break;
+      case "6j4E53YWQtQ":
+        Script25();
+        break;
+      case "6BMjCvK66Bl":
+        Script26();
+        break;
+      case "6jsbx3pwDfr":
+        Script27();
+        break;
+      case "6bVO8TQe4k1":
+        Script28();
         break;
   }
 }
@@ -184,10 +196,7 @@ function Script21()
 
 function Script22()
 {
-  var player = GetPlayer();
-
-player.SetVar("modulo_completado",1);
-publicar_resultado("3");
+  window.location.href = "../mecanica_avanzada.html";
 }
 
 function Script23()
@@ -196,6 +205,29 @@ function Script23()
 }
 
 function Script24()
+{
+  window.location.href = "../mecanica_avanzada.html";
+}
+
+function Script25()
+{
+  window.location.href = "../mecanica_avanzada.html";
+}
+
+function Script26()
+{
+  var player = GetPlayer();
+
+player.SetVar("modulo_completado",1);
+publicar_resultado("1");
+}
+
+function Script27()
+{
+  window.location.href = "../mecanica_avanzada.html";
+}
+
+function Script28()
 {
   window.location.href = "../mecanica_avanzada.html";
 }
