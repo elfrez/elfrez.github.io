@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Técnicas Avanzadas de Mantención Autónoma - Módulo 1" />
+              <option name="title_text" value="PCR en el diagnostico de TBC ocular" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -76,7 +76,7 @@
       </optiongroup>
       <optiongroup name="bottombaroptions">
         <options>
-          <option name="bottombar_enabled" value="true" />
+          <option name="bottombar_enabled" value="false" />
         </options>
       </optiongroup>
       <optiongroup name="buttonoptions">
@@ -1288,32 +1288,22 @@
       <links>
         <slidelink slideid="_player.5vHNk1D9S6l" displaytext="Módulo 2" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5vHNk1D9S6l.6eqMucYIxO9" displaytext="Diapositiva sin título" expand="false" type="slide" />
             <slidelink slideid="_player.5vHNk1D9S6l.5pFhZNwevGV" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.5vHNk1D9S6l.6ajicxTZirP" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.5vHNk1D9S6l.6TlwO4Zrac7" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.5vHNk1D9S6l.6Jc8g71CejH" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.5vHNk1D9S6l.5qJ4pIQvzTl" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.5vHNk1D9S6l.664nV8yBUkx" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.5vHNk1D9S6l.6T4LJx7rFsv" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.5vHNk1D9S6l.6bzAO6URfnd" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.5vHNk1D9S6l.5j0clrqFcV4" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.5vHNk1D9S6l.5my8oJcXDKD" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.5vHNk1D9S6l.6MDeCZOscdt" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.5vHNk1D9S6l.5eip1hHp96j" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.5vHNk1D9S6l.5Xb5w9h7A7Z" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.5vHNk1D9S6l.6hFo2kmuThn" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.5vHNk1D9S6l.67FDVyoUIuI" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.5vHNk1D9S6l.5hcUCEx5PEN" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.5vHNk1D9S6l.6HYapQCXNHk" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.5vHNk1D9S6l.6gyJXl5Peij" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.5vHNk1D9S6l.6hYMIdcQIpP" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.5vHNk1D9S6l.604y4pnu3D7" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.5vHNk1D9S6l.6VzOeBPaO7a" displaytext="Elige la palabra correcta para completar cada oración." expand="false" type="slide" />
-            <slidelink slideid="_player.5vHNk1D9S6l.6YfT6Vdrkg4" displaytext="Elige la palabra correcta para completar cada oración." expand="false" type="slide" />
-            <slidelink slideid="_player.5vHNk1D9S6l.6DxW2d3N5v2" displaytext="Elige la palabra correcta para completar cada oración." expand="false" type="slide" />
-            <slidelink slideid="_player.5vHNk1D9S6l.6SlgeZ5TJX7" displaytext="Elige la palabra correcta para completar cada oración." expand="false" type="slide" />
-            <slidelink slideid="_player.5vHNk1D9S6l.6pEbZMgRlp3" displaytext="Elige la palabra correcta para completar cada oración." expand="false" type="slide" />
+            <slidelink slideid="_player.5vHNk1D9S6l.6oVoTAf9JQw" displaytext="Diapositiva sin título" expand="false" type="slide" />
+            <slidelink slideid="_player.5vHNk1D9S6l.6pWphZzvukO" displaytext="Diapositiva sin título" expand="false" type="slide" />
+            <slidelink slideid="_player.5vHNk1D9S6l.6kjEe0VHEkB" displaytext="Diapositiva sin título" expand="false" type="slide" />
+            <slidelink slideid="_player.5vHNk1D9S6l.6WXH35aDpin" displaytext="Diapositiva sin título" expand="false" type="slide" />
+            <slidelink slideid="_player.5vHNk1D9S6l.62vKmYVe4n8" displaytext="Diapositiva sin título" expand="false" type="slide" />
+            <slidelink slideid="_player.5vHNk1D9S6l.5h65fp6dLlt" displaytext="Diapositiva sin título" expand="false" type="slide" />
+            <slidelink slideid="_player.5vHNk1D9S6l.6qHunkeTaQn" displaytext="Diapositiva sin título" expand="false" type="slide" />
+            <slidelink slideid="_player.5vHNk1D9S6l.5uA3WR1rwUi" displaytext="Diapositiva sin título" expand="false" type="slide" />
+            <slidelink slideid="_player.5vHNk1D9S6l.6NG7LU38EUB" displaytext="Diapositiva sin título" expand="false" type="slide" />
+            <slidelink slideid="_player.5vHNk1D9S6l.6EKsSE7T43i" displaytext="Diapositiva sin título" expand="false" type="slide" />
+            <slidelink slideid="_player.5vHNk1D9S6l.5pWM8drzboi" displaytext="Diapositiva sin título" expand="false" type="slide" />
+            <slidelink slideid="_player.5vHNk1D9S6l.5XEbUdllu7m" displaytext="Diapositiva sin título" expand="false" type="slide" />
+            <slidelink slideid="_player.5vHNk1D9S6l.66nMth5H8iI" displaytext="Diapositiva sin título" expand="false" type="slide" />
+            <slidelink slideid="_player.5vHNk1D9S6l.5rNY6poPrmt" displaytext="Diapositiva sin título" expand="false" type="slide" />
+            <slidelink slideid="_player.5vHNk1D9S6l.6VRGHAwmHxn" displaytext="Diapositiva sin título" expand="false" type="slide" />
             <slidelink slideid="_player.5vHNk1D9S6l.5g2pQFAYBGT" displaytext="Diapositiva sin título" expand="false" type="slide" />
           </links>
         </slidelink>
