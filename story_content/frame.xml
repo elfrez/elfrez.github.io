@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns00000000001" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="true" outputtype="undefined" theme="unified">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns00000000001" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="true" outputtype="undefined" theme="unified">
   <layouts>
-    <layout name="npnxnanbsnfns00000000001" font="Lato" controllayout="npnxnanbsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
-    <layout name="pxabnsnfns00000000001" font="Lato" controllayout="pxabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
-    <layout name="npxnabnsnfns00000000001" font="Lato" controllayout="npxnabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
-    <layout name="npnxnanbnsnfns00000000001" font="Lato" controllayout="npnxnanbnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
-    <layout name="pxabnsnfns00000000000" font="Lato" controllayout="pxabnsnfns00000000000" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="npnxnanbsnfns00000000001" font="Lato" controllayout="npnxnanbsnfns00000000001" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
+    <layout name="pxabnsnfns00000000001" font="Lato" controllayout="pxabnsnfns00000000001" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
+    <layout name="npxnabnsnfns00000000001" font="Lato" controllayout="npxnabnsnfns00000000001" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
+    <layout name="npnxnanbnsnfns00000000001" font="Lato" controllayout="npnxnanbnsnfns00000000001" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
+    <layout name="pxabnsnfns00000000000" font="Lato" controllayout="pxabnsnfns00000000000" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -76,7 +76,7 @@
       </optiongroup>
       <optiongroup name="bottombaroptions">
         <options>
-          <option name="bottombar_enabled" value="false" />
+          <option name="bottombar_enabled" value="true" />
         </options>
       </optiongroup>
       <optiongroup name="buttonoptions">
@@ -206,7 +206,7 @@
     </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="npnxnanbnsnfns00000000001">
+    <colorscheme name="pxabnsnfns00000000001">
       <color_group name="accessibility">
         <group_colors>
           <color name="focus_rect">
@@ -1216,7 +1216,7 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="npnxnanbnsnfns00000000001">
+    <string_table name="pxabnsnfns00000000001">
       <string id="more_info">Más información</string>
       <string id="bio">Biografía</string>
       <string id="togglezoom">Alternar los modos de zoom</string>
@@ -1286,7 +1286,7 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.5vHNk1D9S6l" displaytext="Módulo 2" expand="true" type="slide">
+        <slidelink slideid="_player.5vHNk1D9S6l" displaytext="Claro" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5vHNk1D9S6l.5pFhZNwevGV" displaytext="Diapositiva sin título" expand="false" type="slide" />
             <slidelink slideid="_player.5vHNk1D9S6l.6oVoTAf9JQw" displaytext="Diapositiva sin título" expand="false" type="slide" />
@@ -1305,6 +1305,31 @@
             <slidelink slideid="_player.5vHNk1D9S6l.5rNY6poPrmt" displaytext="Diapositiva sin título" expand="false" type="slide" />
             <slidelink slideid="_player.5vHNk1D9S6l.6VRGHAwmHxn" displaytext="Diapositiva sin título" expand="false" type="slide" />
             <slidelink slideid="_player.5vHNk1D9S6l.5g2pQFAYBGT" displaytext="Diapositiva sin título" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6Sm05eHPsrS" displaytext="Oscuro" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6Sm05eHPsrS.6KSwn9CXGUo" displaytext="PCR en el diagnóstico de TBC ocular" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sm05eHPsrS.6cQn2hD5Dia" displaytext="TBC ocular: desafío diagnóstico" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sm05eHPsrS.6roXxKG4w6Q" displaytext="PCR como herramienta diagnóstica" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sm05eHPsrS.6BHXTX0vQSW" displaytext="PCR como herramienta diagnóstica" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sm05eHPsrS.5rCdPe6AQ8V" displaytext="Abril 2019" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sm05eHPsrS.5ql9AIRnPYX" displaytext="Métodos" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sm05eHPsrS.6V9yWubcQ7t" displaytext="Métodos" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sm05eHPsrS.6jypeHrFFue" displaytext="RESULTADOS" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sm05eHPsrS.6STwFUOT3gD" displaytext="RESULTADOS" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sm05eHPsrS.5oKWydi5mVs" displaytext="¿CORRELACIÓN CON OTROS TEST?" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sm05eHPsrS.6C5QbpBGe4s" displaytext="Seguimiento clínico" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sm05eHPsrS.5j5SphNDLIR" displaytext="Discusión" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sm05eHPsrS.6TlLrOuQcig" displaytext="Discusión" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sm05eHPsrS.6MgGZOVl8D6" displaytext="¿cuáles son los problemas?" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sm05eHPsrS.6W39WdUhY84" displaytext="Desafío" expand="false" type="slide" />
+            <slidelink slideid="_player.6Sm05eHPsrS.6P2cdTiNHPQ" displaytext="PCR en el diagnóstico de TBC ocular" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5uN3vm7SQSm" displaytext="Inicio" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5uN3vm7SQSm.5bWZPgi6Z5t" displaytext="Diapositiva sin título" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
